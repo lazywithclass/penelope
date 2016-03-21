@@ -1,2 +1,2 @@
 # penelope
-Weaves and undoes source code
+Weaves and undoes source code checking the final result

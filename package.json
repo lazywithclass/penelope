@@ -1,0 +1,11 @@
+{
+  "name": "penelope",
+  "version": "0.0.1",
+  "description": "Weaves and undoes source code checking the final result",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me@lazywithclass.com",
+  "license": "MIT"
+}
