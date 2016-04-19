@@ -4,7 +4,8 @@
   "description": "Weaves and undoes source code checking the final result",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "setup": "./modules/setup.sh",
+    "cleanup": "./modules/cleanup.sh"
   },
   "author": "me@lazywithclass.com",
   "license": "MIT",
