@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "setup": "./modules/setup.sh",
-    "cleanup": "./modules/cleanup.sh"
+    "cleanup": "./modules/cleanup.sh",
+    "test": "./modules/test.sh"
   },
   "author": "me@lazywithclass.com",
   "license": "MIT",
