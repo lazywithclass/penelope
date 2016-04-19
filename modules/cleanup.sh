@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm -rf lodash
+rm -rf modules/lodash
