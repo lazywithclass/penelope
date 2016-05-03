@@ -2,10 +2,6 @@
 
 set -e
 
-echo mutating...
-node index.js
-echo mutated!
-
 echo running tests
 
 cd modules/lodash
